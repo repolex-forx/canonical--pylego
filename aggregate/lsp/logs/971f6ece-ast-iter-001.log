@@ -1,0 +1,7 @@
+[2026-11-08T19:08:23Z] === AST ITERATION 1 START | repo=canonical/pylego sha=971f6ece ===
+[2026-11-08T19:08:23Z] [iter=1] PHASE START: ast repo=canonical/pylego sha=971f6ece
+[2026-11-08T19:08:23Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T19:08:26Z] [iter=1] AST chunks built count=1 triples=45318
+[2026-11-08T19:08:26Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/971f6ecec368171f6bc44f5baa92a0b92255ccee/.complete
+[2026-11-08T19:08:26Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.0
+[2026-11-08T19:08:26Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
