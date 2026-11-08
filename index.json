@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "pylego",
+  "versions": [
+    {
+      "commit": "971f6ecec368171f6bc44f5baa92a0b92255ccee",
+      "tag": "",
+      "parsed_at": "2026-11-08T19:09:33.413352+00:00"
+    }
+  ]
+}
